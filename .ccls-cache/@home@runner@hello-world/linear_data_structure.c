@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Omdev-Paul 
-SurajAravind
-/
-19ECB132
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-19ECB132/03_linear_data_structures.c
-@SurajAravind
-SurajAravind Added stack and queue implementation in the program 03_linear_data_st…
-…
-Latest commit b8f2f2c 5 days ago
- History
- 1 contributor
-134 lines (120 sloc)  2.89 KB
-   
 # include <stdio.h>
 # define SIZE 5
 
@@ -161,16 +132,3 @@ int main(void) {
     
   }
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
