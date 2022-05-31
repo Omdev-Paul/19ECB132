@@ -17,3 +17,11 @@ int main()
         printf("not palindrome");
     return 0;
 }
+
+/*
+i/p-> enter the number=345543
+o/p-> palindrome number
+
+i/p-> enter the number=346543
+o/p-> not palindrome
+*/
