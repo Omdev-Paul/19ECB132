@@ -11,3 +11,8 @@ int main()
     printf("Factorial of %d is: %d", n, fact);
     return 0;
 }
+
+/*
+i/p-> Enter a number: 6
+o/p-> Factorial of 6 is: 720
+*/
