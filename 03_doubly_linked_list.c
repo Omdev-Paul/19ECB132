@@ -30,5 +30,14 @@ int main() {
     printf("\n%d", temp->data);
     temp = temp->next;
   } 
-  
 } 
+
+/*
+
+*** Doubly Linked List with 3 nodes***
+*** Traversing the elements in the Doubly Linked List***
+0
+1
+2
+
+*/
