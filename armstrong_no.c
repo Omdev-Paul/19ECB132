@@ -17,3 +17,11 @@ int main()
         printf("not armstrong number");
     return 0;
 }
+
+/*
+i/p-> enter the number=153
+o/p-> armstrong number
+
+i/p-> enter the number=154
+o/p-> not armstrong number
+*/
