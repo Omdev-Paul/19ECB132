@@ -132,3 +132,102 @@ int main(void) {
     
   }
 }
+
+/*
+
+1. Stack using Array      
+2. Queue using Array      
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program  
+
+ Provide an option: 1
+
+***Creation of Stack using Array***
+ 1. Push         2. Pop          3. Display      4. Return to previous menu
+ Choose an option: 1
+
+Enter the element to be pushed to the stack: 12
+
+ 1. Push         2. Pop          3. Display      4. Return to previous menu
+ Choose an option: 1
+
+Enter the element to be pushed to the stack: 24
+
+ 1. Push         2. Pop          3. Display      4. Return to previous menu
+ Choose an option: 1
+
+Enter the element to be pushed to the stack: 98
+
+ 1. Push         2. Pop          3. Display      4. Return to previous menu
+ Choose an option: 3
+12      24      98 
+ 1. Push         2. Pop          3. Display      4. Return to previous menu
+ Choose an option: 2
+
+Popped element is: 98
+ 1. Push         2. Pop          3. Display      4. Return to previous menu
+ Choose an option: 3
+12      24 
+ 1. Push         2. Pop          3. Display      4. Return to previous menu
+ Choose an option: 4
+
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+
+----------------------------------------------------------------------------------------------------------------------------
+
+1. Stack using Array
+2. Queue using Array      
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program  
+
+ Provide an option: 2
+
+***Creation of Queue using Array***
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu
+ Choose an option: 1
+
+Enter the element to be inserted to the queue: 10
+
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu
+ Choose an option: 1
+
+Enter the element to be inserted to the queue: 54
+
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu
+ Choose an option: 1
+
+Enter the element to be inserted to the queue: 98
+
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu
+ Choose an option: 1
+
+Enter the element to be inserted to the queue: 234
+
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu
+ Choose an option: 3
+10      54      98      234 
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu
+ Choose an option: 2
+
+Deleted element is: 10
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu
+ Choose an option: 3
+54      98      234 
+ 1. Enqueue      2. Dequeue      3. Display      4. Return to previous menu
+ Choose an option: 4
+
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+
+------------------------------------------------------------------------------------------------------------------
+3 and 4 not complete
+*/
