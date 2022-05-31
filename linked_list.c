@@ -66,7 +66,7 @@ void doubly_linked_list(){
     scanf("%d", &choice);
   } 
 
-  printf("\nThe elements in the Singly Linked list are...");
+  printf("\nThe elements in the Doubly Linked list are...");
   temp = head;
   while (temp != NULL) {
     printf("\n%d", temp->data);
