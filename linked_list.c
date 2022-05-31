@@ -94,3 +94,61 @@ int main() {
   }
     
 }
+
+/*
+
+1. Singly Linked List 
+2. Doubly Linked List
+3. Circular Linked List
+4. Exit
+Choose an option: 1
+
+*** Singly Linked List ***
+Enter node data: 5
+
+To insert a new node press 1 else any other integer: 1
+
+Enter node data: 6
+
+To insert a new node press 1 else any other integer: 1
+
+Enter node data: 7
+
+To insert a new node press 1 else any other integer: 5
+
+The elements in the Singly Linked list are...
+5
+6
+7
+
+-----------------------------------------------------------------------------
+
+1. Singly Linked List 
+2. Doubly Linked List
+3. Circular Linked List
+4. Exit
+Choose an option: 2
+
+*** Doubly Linked List ***
+Enter node data: 2
+
+To insert a new node press 1 else any other integer: 1
+
+Enter node data: 4
+
+To insert a new node press 1 else any other integer: 1
+
+Enter node data: 6
+
+To insert a new node press 1 else any other integer: 12
+
+The elements in the Doubly Linked list are...
+2
+4
+6
+
+----------------------------------------------------------------------------
+
+Circular linked list incomplete
+
+*/
