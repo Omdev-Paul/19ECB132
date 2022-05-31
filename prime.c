@@ -18,3 +18,10 @@ int main()
         printf("Number is prime");
     return 0;
 }
+/*
+i/p-> Enter the number to check prime:2
+o/p-> Number is prime
+
+i/p-> Enter the number to check prime:6
+o/p-> Number is not prime
+*/
