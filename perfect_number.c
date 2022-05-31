@@ -18,3 +18,13 @@ int main()
 
     return 0;
 }
+
+/*
+i/p->  Please Enter any number
+      496
+o/p->  496 is a Perefect Number
+
+i/p->  Please Enter any number
+      497
+o/p->  497 is not the Perefect Number
+*/
