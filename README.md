@@ -29,15 +29,9 @@ Arrays Prgrams
 
 Assignment Programs
 
-Assignment 8
+[Assignment 8](https://github.com/Omdev-Paul/19ECB132/blob/main/Assignment%208.c)
 
+[Assignment 9](https://github.com/Omdev-Paul/19ECB132/blob/main/Assignment%209.c)
 
-
-Assignment 9
-
-
-
-Assignment 10
-
-
+[Assignment 10](https://github.com/Omdev-Paul/19ECB132/blob/main/Assignment%2010.c)
 
