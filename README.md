@@ -27,3 +27,17 @@ Arrays Prgrams
 
 [Doubly Linked List](https://github.com/Omdev-Paul/19ECB132/blob/main/03_doubly_linked_list.c)
 
+Assignment Programs
+
+Assignment 8
+
+
+
+Assignment 9
+
+
+
+Assignment 10
+
+
+
